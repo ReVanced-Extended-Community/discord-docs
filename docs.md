@@ -65,7 +65,7 @@ Here is a sample custom command:
 
 <img src="/assets/sample_custom_command.png" width="800"/>
 
-<img src="/assets/custom_command_response.png" width="400"/>
+<img src="/assets/custom_command_response.png" width="300"/>
 
 After creating a custom command, the command trigger and description should be added to the list of custom commands in [`#⁠🆘・quick-support`](https://discord.com/channels/1270729807948415048/1270739900752461845/1280014426963185698). This list provides helpers and troubled users the information they need to use the commands effectively.
 
@@ -98,7 +98,7 @@ The `@Auto Publisher 3` bot should automatically publish all messages sent in �
 
 If the bot is offline, messages will need to be published manually. To publish an announcement on mobile, simply hold down on the message and press "Publish". To publish an announcement from desktop, hover over the message and click the 📣 emoticon.
 
-<img src="/assets/publish.png" width="400"/>
+<img src="/assets/publish.png" width="300"/>
 
 # Auto publishing bot
 `@Auto Publisher 3 is a bot that will automatically publish messages sent in an announcement channel as long as it has the permissions to do so. According to the configuration instructions, the following permissions should be given to the bot in the announcement channel:
