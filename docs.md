@@ -9,7 +9,7 @@ To create a webhook message, open the settings for the channel the message shoul
 
 When creating a webhook, clearly name it and upload the image below as its avatar.
 
-<img src="/assets/red_rvx_logo.png" width="400"/>
+<img src="/assets/red_rvx_logo.png" width="200"/>
 
 Once you have the webhook you will use, copy the webhook URL. Go to [discohook.org](https://discohook.org/)  and press the `Clear All` button near the top. Paste the webhook URL in the textbox near the top. Open the `Profile` dropdown, and enter "ReVanced Extended" as the username. (This can't be changed later. If no username is given, the name of the webhook will be its displayed name.)
 
@@ -98,7 +98,7 @@ The `@Auto Publisher 3` bot should automatically publish all messages sent in ‚Å
 
 If the bot is offline, messages will need to be published manually. To publish an announcement on mobile, simply hold down on the message and press "Publish". To publish an announcement from desktop, hover over the message and click the üì£ emoticon.
 
-<img src="//assets/publish.png" width="400"/>
+<img src="/assets/publish.png" width="400"/>
 
 # Auto publishing bot
 `@Auto Publisher 3 is a bot that will automatically publish messages sent in an announcement channel as long as it has the permissions to do so. According to the configuration instructions, the following permissions should be given to the bot in the announcement channel:
