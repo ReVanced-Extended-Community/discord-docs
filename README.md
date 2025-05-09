@@ -8,4 +8,5 @@ Documentation for maintenance of the [ReVanced Extended Discord server](https://
 - [GitHub notifications](/docs.md#github-notifications)
 - [YAGPDB automod](/docs.md#yagpdb-automod)
 - [Making announcements](/docs.md#making-announcements)
-- [Auto publishing bot](/docs.md#auto-publishing-bot)
+- [Auto publishing bot](/docs.md#autopublisher-bot)
+- [AutoReacter bot](/docs.md#autoreacter-bot)

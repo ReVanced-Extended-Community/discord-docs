@@ -100,7 +100,18 @@ If the bot is offline, messages will need to be published manually. To publish a
 
 <img src="/assets/publish.png" width="300"/>
 
-# Auto publishing bot
-`@Auto Publisher 3 is a bot that will automatically publish messages sent in an announcement channel as long as it has the permissions to do so. According to the configuration instructions, the following permissions should be given to the bot in the announcement channel:
+
+
+# AutoPublisher bot
+`@Auto Publisher 3` is a bot that will automatically publish messages sent in an announcement channel as long as it has the permissions to do so. According to the configuration instructions, the following permissions should be given to the bot in the announcement channel:
 
 `View Channel`, `Send Messages`, `Manage Messages`, and `Read Message History`.
+
+
+
+# AutoReacter bot
+`AutoReacter` is a bot that automatically creates specified reactions to all messages in a channel. At the time of this writing, it is only used to promote positivity and wholesomeness in `#💻・github`.
+
+Another potential use of this bot is to give users the ability to react to messages in channels like `#💻・github` without giving them the ability to freely choose the emojis they use. Users without the `Add Reactions` permission in a channel will only be able to add reactions to existing reactions, which the bot would create. The purpose of this would be to prevent users from creating problematic reactions, such as profanity or political symbols, though IDK if the latter should be restricted.
+
+The bot is managed entirely with slash commands.
