@@ -13,10 +13,10 @@ When creating a webhook, clearly name it and upload the image below as its avata
 
 Once you have the webhook you will use, copy the webhook URL. Go to [discohook.org](https://discohook.org/)  and press the `Clear All` button near the top. Paste the webhook URL in the textbox near the top. Open the `Profile` dropdown, and enter "ReVanced Extended" as the username. (This can't be changed later. If no username is given, the name of the webhook will be its displayed name.)
 
-Create the message you want to send. Generally, embeds are best, except when the character limit must exceed 2000 characters. For consistency, follow the same formatting as other webhook embeds in the server. When you are done, press the `Send` button beside the webhook URL textbox.
+Create the message you want to send. Generally, embeds are best, since they look nicer and can have up to 4096 characters instead of 2000. For consistency, follow the same formatting as other webhook embeds in the server. When you are done, press the `Send` button beside the webhook URL textbox.
 
-### Formatting Roles, users, etc.
-https://discord.com/developers/docs/reference#message-formatting 
+### Formatting roles, users, etc. in webhook messages
+See [this page](https://discord.com/developers/docs/reference#message-formatting) for the code format. You will need to enable "Developer mode" in your Discord client in order to see things such as channel IDs.
 
 
 
